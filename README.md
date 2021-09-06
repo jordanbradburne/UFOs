@@ -25,4 +25,4 @@ Build a webpage and dynamic table of UFO sighting data and then provide a more i
 <img width="1220" alt="Screen Shot 2021-09-05 at 8 35 53 PM" src="https://user-images.githubusercontent.com/85847344/132157786-84c19ea5-6b1c-4986-8dbc-c50c22e6ef08.png">
 
 ## Summary: 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+Although this page is clean looking and easy to use, there are some drawbacks. One is that there is no information on how many witnesses there were at these sightings. This would be helpful in validating claims. To improve the website, I recommend adding more data, such as including the number of witnesses, and to also have a site that could be constantly updating the data and adding new/more sitings to this page.
